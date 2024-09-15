@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cowindashboardicons/static/css/main.96ac5b12.css",
+    "main.js": "/cowindashboardicons/static/js/main.91c95747.js",
+    "static/js/453.7d30ef79.chunk.js": "/cowindashboardicons/static/js/453.7d30ef79.chunk.js",
+    "index.html": "/cowindashboardicons/index.html",
+    "main.96ac5b12.css.map": "/cowindashboardicons/static/css/main.96ac5b12.css.map",
+    "main.91c95747.js.map": "/cowindashboardicons/static/js/main.91c95747.js.map",
+    "453.7d30ef79.chunk.js.map": "/cowindashboardicons/static/js/453.7d30ef79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96ac5b12.css",
+    "static/js/main.91c95747.js"
+  ]
+}
